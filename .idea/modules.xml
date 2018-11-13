@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/automation_cr.iml" filepath="$PROJECT_DIR$/.idea/modules/automation_cr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/automation_cr_main.iml" filepath="$PROJECT_DIR$/.idea/modules/automation_cr_main.iml" group="automation_cr" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/automation_cr_test.iml" filepath="$PROJECT_DIR$/.idea/modules/automation_cr_test.iml" group="automation_cr" />
+    </modules>
+  </component>
+</project>
